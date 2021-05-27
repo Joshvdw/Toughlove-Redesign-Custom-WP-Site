@@ -1,0 +1,2 @@
+2021-05-14T12:52:33+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 225280 bytes) in /var/www/html/toughlove-redesign/wp-includes/wp-db.php on line 1168
+

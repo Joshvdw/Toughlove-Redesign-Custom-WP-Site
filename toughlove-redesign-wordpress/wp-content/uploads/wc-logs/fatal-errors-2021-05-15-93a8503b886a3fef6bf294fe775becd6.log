@@ -1,0 +1,60 @@
+2021-05-15T08:56:57+00:00 CRITICAL Uncaught Error: Call to undefined function W3TC\curl_init() in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php:115
+Stack trace:
+#0 /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/SetupGuide_Plugin_Admin.php(175): W3TC\Util_Http::ttfb('http://192.168....', false)
+#1 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(292): W3TC\SetupGuide_Plugin_Admin->test_pgcache('')
+#2 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/toughlove-redesign/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /var/www/html/toughlove-redesign/wp-admin/admin-ajax.php(187): do_action('wp_ajax_w3tc_te...')
+#5 {main}
+  thrown in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php on line 115
+
+2021-05-15T08:57:04+00:00 CRITICAL Uncaught Error: Call to undefined function W3TC\curl_init() in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php:115
+Stack trace:
+#0 /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/SetupGuide_Plugin_Admin.php(175): W3TC\Util_Http::ttfb('http://192.168....', false)
+#1 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(292): W3TC\SetupGuide_Plugin_Admin->test_pgcache('')
+#2 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/toughlove-redesign/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /var/www/html/toughlove-redesign/wp-admin/admin-ajax.php(187): do_action('wp_ajax_w3tc_te...')
+#5 {main}
+  thrown in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php on line 115
+
+2021-05-15T08:57:13+00:00 CRITICAL Uncaught Error: Call to undefined function W3TC\curl_init() in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php:115
+Stack trace:
+#0 /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/SetupGuide_Plugin_Admin.php(175): W3TC\Util_Http::ttfb('http://192.168....', false)
+#1 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(292): W3TC\SetupGuide_Plugin_Admin->test_pgcache('')
+#2 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/toughlove-redesign/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /var/www/html/toughlove-redesign/wp-admin/admin-ajax.php(187): do_action('wp_ajax_w3tc_te...')
+#5 {main}
+  thrown in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php on line 115
+
+2021-05-15T08:57:20+00:00 CRITICAL Uncaught Error: Call to undefined function W3TC\curl_init() in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php:115
+Stack trace:
+#0 /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/SetupGuide_Plugin_Admin.php(175): W3TC\Util_Http::ttfb('http://192.168....', false)
+#1 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(292): W3TC\SetupGuide_Plugin_Admin->test_pgcache('')
+#2 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/toughlove-redesign/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /var/www/html/toughlove-redesign/wp-admin/admin-ajax.php(187): do_action('wp_ajax_w3tc_te...')
+#5 {main}
+  thrown in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php on line 115
+
+2021-05-15T08:57:25+00:00 CRITICAL Uncaught Error: Call to undefined function W3TC\curl_init() in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php:115
+Stack trace:
+#0 /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/SetupGuide_Plugin_Admin.php(175): W3TC\Util_Http::ttfb('http://192.168....', false)
+#1 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(292): W3TC\SetupGuide_Plugin_Admin->test_pgcache('')
+#2 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/toughlove-redesign/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /var/www/html/toughlove-redesign/wp-admin/admin-ajax.php(187): do_action('wp_ajax_w3tc_te...')
+#5 {main}
+  thrown in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php on line 115
+
+2021-05-15T08:57:38+00:00 CRITICAL Uncaught Error: Call to undefined function W3TC\curl_init() in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php:115
+Stack trace:
+#0 /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/SetupGuide_Plugin_Admin.php(175): W3TC\Util_Http::ttfb('http://192.168....', false)
+#1 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(292): W3TC\SetupGuide_Plugin_Admin->test_pgcache('')
+#2 /var/www/html/toughlove-redesign/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/toughlove-redesign/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /var/www/html/toughlove-redesign/wp-admin/admin-ajax.php(187): do_action('wp_ajax_w3tc_te...')
+#5 {main}
+  thrown in /var/www/html/toughlove-redesign/wp-content/plugins/w3-total-cache/Util_Http.php on line 115
+
